@@ -3,6 +3,8 @@
 [![Bahasa Indonesia](https://img.shields.io/badge/Language-Bahasa%20Indonesia-brightgreen)](README_ID.md)
 *Available in other languages: [🇮🇩 Versi Bahasa Indonesia](README_ID.md)*
 
+**This program is made to fulfill the Industrial Automation course, BS1TE-48-REG-02 under the guidance of Dr. Muhammad Ary Murti S.T., Ph.D of Telkom University.** 
+
 An industrial PLC automation program developed in **Omron CX-Programmer** for an automated **Screw Press Dewatering Separator** ("Auger Press / Waste Compactor"). 
 
 This design implements the dewatering process principles established in academic research on manure separators (*Senfter et al., Separations 2024*) and addresses real-world maintenance challenges from field teardowns (screen blinding, flush solenoid automation, and cake plug jams).
