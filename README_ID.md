@@ -7,7 +7,7 @@
 
 Program PLC untuk mesin **Screw Press Dewatering Separator** ("Auger Press / Pemadat Limbah") ini dikembangkan menggunakan **Omron CX-Programmer**.
 
-Pengontrol ini mengotomatiskan proses pemisahan fasa padat-cair (dewatering) berdasarkan penelitian ilmiah pada pemisah kotoran ternak/slurry (*Senfter et al., Separations 2024*) serta mengatasi masalah operasional di lapangan dari analisis bongkar unit mesin riil (penyumbatan saringan/screen blinding, otomatisasi solenoid pencuci, dan kemacetan sumbat ampas).
+Pengontrol ini mengotomatiskan proses pemisahan fasa padat-cair (dewatering) berdasarkan penelitian ilmiah pada pemisah kotoran ternak/slurry (*Senfter et al., Separations 2024*) serta mengatasi masalah operasional di lapangan dari analisis video pembongkaran alat (penyumbatan saringan/screen blinding, otomatisasi solenoid pencuci, dan kemacetan sumbat ampas).
 
 ---
 

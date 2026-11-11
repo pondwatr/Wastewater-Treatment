@@ -51,19 +51,19 @@ BEGIN
  Bar[2]:=
  BEGIN
   BarID:=59414;
-  Pos:="886 5";
+  Pos:="640 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="886 5 1136 185";
+  MRUDockPos:="640 5 766 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="222222";
+  PctWidth:="166666";
   MRUFloat:="300 180";
-  MRUHorzDock:="250 180";
+  MRUHorzDock:="126 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -75,19 +75,19 @@ BEGIN
  Bar[3]:=
  BEGIN
   BarID:=59412;
-  Pos:="381 5";
+  Pos:="383 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="381 5 880 185";
+  MRUDockPos:="383 5 634 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="444444";
+  PctWidth:="333333";
   MRUFloat:="300 180";
-  MRUHorzDock:="499 180";
+  MRUHorzDock:="251 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -152,16 +152,16 @@ BEGIN
   Pos:="1 5";
   Docking:=1;
   MRUDockID:=0;
-  MRUDockPos:="1 5 375 185";
+  MRUDockPos:="1 5 377 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="333333";
+  PctWidth:="499999";
   MRUFloat:="300 180";
-  MRUHorzDock:="374 180";
+  MRUHorzDock:="376 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -194,7 +194,7 @@ BEGIN
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=11;
+   Yscroll:=10;
   END;
   nViews:=1;
  END;

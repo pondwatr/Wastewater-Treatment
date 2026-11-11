@@ -7,7 +7,7 @@
 
 An industrial PLC automation program developed in **Omron CX-Programmer** for an automated **Screw Press Dewatering Separator** ("Auger Press / Waste Compactor"). 
 
-This design implements the dewatering process principles established in academic research on manure separators (*Senfter et al., Separations 2024*) and addresses real-world maintenance challenges from field teardowns (screen blinding, flush solenoid automation, and cake plug jams).
+This design implements the dewatering process principles established in academic research on manure separators (*Senfter et al., Separations 2024*) and addresses real-world maintenance challenges from field teardown video(screen blinding, flush solenoid automation, and cake plug jams).
 
 ---
 
